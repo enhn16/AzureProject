@@ -113,3 +113,5 @@
 
 ## 캐릭터
 ### 베지 (Bege)
+<img src="./check.png" width="200">
+<img src="./cooking.png" width="200">
